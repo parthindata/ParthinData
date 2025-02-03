@@ -1,19 +1,13 @@
-<h2 align="left">Hello World! <br>I'm Parth, junior Data Analyst 📊</h2>
+<h1 align="left">Hello World! <br>I'm Parth, a junior Data Analyst 📊</h2>
 
 ###
 
-<h2 align="left">And an aspiring Data Engineer 🔧</h2>
+<h2 align="left">aspiring Data Engineer 🔧</h2>
+<p align="left">🛜 currently working on my own webpage<br>👨🏼‍🎓 studying data science at Vše<br>👨🏼‍💻 working as a data analyst since 2024</p>
 
 ###
 
-<p align="left"></p>
-
-###
-
-<h3 align="left">I code with</h3>
-
-###
-
+# 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -76,9 +70,13 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/parthindata">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=parthindata&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31q2ikwfpmsgso2ulgcvtf73o5c4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q2ikwfpmsgso2ulgcvtf73o5c4&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+###
 
 ###
