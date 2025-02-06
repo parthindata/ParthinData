@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! <br>I'm Parth, a junior Data Analyst 📊</h2>
+<h2 align="left">Hello World! <br>I'm Parth, a junior Data Analyst 📊</h2>
 
 ###
 
@@ -52,15 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/dbrx-color.svg" height="40" />
+  <img  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/dbrx-color.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/snowflake/00a1d9" height="40" />
   <img width="12" />
@@ -85,13 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=parthindata&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31q2ikwfpmsgso2ulgcvtf73o5c4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q2ikwfpmsgso2ulgcvtf73o5c4&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
