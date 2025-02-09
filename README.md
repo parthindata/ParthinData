@@ -1,9 +1,5 @@
-<h2 align="left">Hello World! <br>I'm Parth, a junior Data Analyst 📊</h2>
-
-###
-
-<h2 align="left">aspiring Data Engineer 🔧</h2>
-<p align="left">🛜 currently working on my own webpage<br>👨🏼‍🎓 studying data science at Vše<br>👨🏼‍💻 working as a data analyst since 2024</p>
+<h2 align="left">Hello World! I'm Parth,<br> a junior Data Analyst & Data Engineer 📊🔧</h2>
+<p align="left">🧑🏻‍🔧 currently working on a ETL Pipeline Development project<br>👨🏻‍🎓 studying data science at Vše<br>🧑🏻‍💻 working as a data analyst since 2024</p>
 
 ###
 
