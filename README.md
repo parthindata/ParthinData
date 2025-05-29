@@ -1,5 +1,7 @@
 <h1 align="left">Hello World! I'm Parth </h1>
-<p align="left">🧑🏻‍🔧 currently working on a Q&A chatbot / ETL Pipeline Development project<br>👨🏻‍🎓 studying data science at Vše<br>🧑🏻‍💻 working as a data analyst since 2024</p>
+<p align="left">🧑🏻‍🔧 currently working on a Q&A chatbot / ETL Pipeline Development project<br>👨🏻‍🎓 studying data science at Vše<br>🧑🏻‍💻 working as a data analyst since 2024
+
+https://github.com/ParthinData/parthindata.github.io</p>
 
 ###
 
