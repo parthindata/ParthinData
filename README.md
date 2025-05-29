@@ -39,8 +39,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apacheairflow" height="40" /> <!-- Apache Airflow logo -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> <!-- Mondodb logo -->
-  <img width="12" />
+  <!img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> <!-- Mondodb logo -->
+  <!img width="12" />
   <img  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/dbrx-color.svg" height="40" /> <!-- Databricls logo -->
   <img width="12" />
   <img src="https://cdn.simpleicons.org/snowflake/00a1d9" height="40" /> <!-- Snowflake logo -->
