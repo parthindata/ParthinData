@@ -1,5 +1,5 @@
 <h1 align="left">Hello World! I'm Parth </h1>
-<p align="left">🧑🏻‍🔧 currently working on a Q&A chatbot / ETL Pipeline Development project<br>👨🏻‍🎓 studying data science at Vše<br>🧑🏻‍💻 working as a data analyst since 2024</p>
+<p align="left">🧑🏻‍🔧 currently working on a ETL Pipeline Development project<br>👨🏻‍🎓 studying data science at VŠE<br>🧑🏻‍💻 working as a data analyst since 2024</p>
 
 <p>💼 Here's my <ul class="actions"><a href="https://www.linkedin.com/in/parthindata/" class="button">LinkedIn</a></ul> </p>
 
