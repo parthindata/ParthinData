@@ -1,7 +1,8 @@
 <h1 align="left">Hello World! I'm Parth </h1>
 <p align="left">🧑🏻‍🔧 currently working on a ETL Pipeline Development project<br>👨🏻‍🎓 stududent @VŠE<br>🧑🏻‍💻 working in data analytics since 2024</p>
 
-<p>💼 Here's my... <ul class="actions"><a href="https://www.linkedin.com/in/parthindata/" class="button">LinkedIn</a></ul> </p>
+<p>💼 Here's my... 
+<class="actions"><a href="https://www.linkedin.com/in/parthindata/" class="button">LinkedIn</a></p>
 
 
 ###
