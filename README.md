@@ -18,7 +18,7 @@
 
 ### 💻 Tools I Use
 
-**Python(Pandas, PySpark)**, **R**, **SQL**, **Bash**(WSL)<br>
+**Python (Pandas, PySpark)**, **R**, **SQL**, **Bash** (WSL)<br>
 **Power BI**, **Tableau**<br>
 **Azure**, **AWS**, **GCP** <br>
 **Docker**, **Apache Airflow**
