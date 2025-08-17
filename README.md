@@ -1,8 +1,6 @@
 <h3 align="left">Hello! I'm Parth<br>
 Passionate about Data Engineering, AI & Cloud Solutions</h3>
 
-<hr>
-
 <p align="left">
 ▪️ <strong>Data Analyst trainee</strong> – SQL, Python (Pandas, NumPy), Power BI...<br>
 ▪️ <strong>Student</strong> of data & analytics.
@@ -18,7 +16,7 @@ Building expertise in cloud architecture and containerization.
 
 <hr>
 
-💻 Tech Stack:
+💻 <strong>Tech Stack:</strong>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <!-- Python logo -->
   <img width="12" />
