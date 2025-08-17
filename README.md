@@ -1,9 +1,29 @@
-<h4 align="left">Hello World! I'm Parth </h4>
-<p align="left">🧑🏻‍🔧 currently working on an ETL Pipeline Development project<br>👨🏻‍🎓 student @VŠE<br>🧑🏻‍💻 working in data & analytics since 2024</p>
+<h3 align="left" style="color:#2E86C1;">Hello! I'm Alex</h3>
+<h4 style="color:#117A65;">Passionate about Data Engineering, AI & Cloud Solutions</h4>
 
-<p>🤝 Let's connect! Here's my... 
-<class="actions"><a href="https://www.linkedin.com/in/parthindata/" class="button">LinkedIn</a></p>
+<hr style="border:1px solid #71A5DE;">
 
+<p align="left" style="color:#555;">
+→ <strong>Data Analyst trainee</strong> – SQL, Python (Pandas, NumPy), Power BI...<br>
+→ <strong>Student</strong> of data & analytics.
+</p>
+
+<hr style="border:1px solid #71A5DE;">
+
+<p align="left" style="color:#555;">
+<strong>Currently:</strong><br>
+Working on data engineering and AI development projects.<br>
+Building expertise in cloud architecture and containerization.
+</p>
+
+<hr style="border:1px solid #71A5DE;">
+
+<p align="left" style="color:#333;">
+Let's connect! Here's my...<br>
+<a href="https://www.linkedin.com/in/alex/" style="background-color:#2E86C1; color:white; padding:8px 12px; text-decoration:none; border-radius:4px;">LinkedIn</a>
+</p>
+
+<hr style="border:1px solid #71A5DE;">
 
 ###
 
@@ -28,7 +48,7 @@
 
 ###
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /> <!-- GCP logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" width="50" alt="googlecloud logo"  /> <!-- GCP logo -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  /> <!-- AWS logo -->
   <img width="12" />
@@ -46,9 +66,7 @@
   <!--img width="12" />
   <img src="https://cdn.simpleicons.org/snowflake/00a1d9" height="40" /> <!-- Snowflake logo -->
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/alteryx" height="40" /> <!-- Alteryx logo -->
-  <img width="12" />
-
+  <img src="https://cdn.simpleicons.org/alteryx" height="50" /> <!-- Alteryx logo -->
   
 </div>
 
