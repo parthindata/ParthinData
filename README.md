@@ -12,7 +12,7 @@ Passionate about Data Engineering, AI & Cloud Solutions</h3>
 
 <p align="left">
 <strong>Currently:</strong><br>
-Working on data engineering and AI development projects.
+Working on data engineering and AI development projects.<br>
 Building expertise in cloud architecture and containerization.
 </p>
 
