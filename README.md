@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! I'm Parth </h1>
+<h4 align="left">Hello World! I'm Parth </h4>
 <p align="left">🧑🏻‍🔧 currently working on an ETL Pipeline Development project<br>👨🏻‍🎓 student @VŠE<br>🧑🏻‍💻 working in data & analytics since 2024</p>
 
 <p>🤝 Let's connect! Here's my... 
@@ -7,7 +7,7 @@
 
 ###
 
-# 💻 Tech Stack:
+💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <!-- Python logo -->
   <img width="12" />
@@ -24,11 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> <!-- Postgre SQL logo -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> <!-- JavaScript logo -->
-  <img width="12" />
+  
 
 ###
-
-  <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /> <!-- GCP logo -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /> <!-- GCP logo -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  /> <!-- AWS logo -->
   <img width="12" />
@@ -37,12 +37,12 @@
   <!--img src="https://cdn.simpleicons.org/apachekafka/white" height="40" /> <!-- Apache Kafka logo -->
   <!--img width="12" />
   <!--img src="https://cdn.simpleicons.org/apachespark" height="40" /> <!-- Apache Spark logo -->
-  <!--img width="12" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/apacheairflow" height="40" /> <!-- Apache Airflow logo -->
   <!--img width="12" />
   <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> <!-- Mondodb logo -->
   <!--img width="12" /-->
-  <!--img  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/dbrx-color.svg" height="40" /> <!-- Databricls logo -->
+  <!--img  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/dbrx-color.svg" height="40" /> <!-- Databricks logo -->
   <!--img width="12" />
   <img src="https://cdn.simpleicons.org/snowflake/00a1d9" height="40" /> <!-- Snowflake logo -->
   <img width="12" />
