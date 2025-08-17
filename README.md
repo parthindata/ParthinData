@@ -1,5 +1,5 @@
-<h3 align="left">Hello there, I'm Parth</h3>
-<h4 align="left">Passionate about Data Engineering, AI & Cloud Solutions</h4>
+<!--<h3 align="left">Hello there, I'm Parth</h3>-->
+<h3 align="left">Passionate about Data Engineering, AI & Cloud Solutions</h3>
 
 ---
 
