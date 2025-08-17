@@ -15,7 +15,7 @@
 ▪️ Building expertise in cloud architecture and containerization
 
 ---
-
+<!--
 ### 💻 Tools I Use
 
 **Python (Pandas, PySpark)**, **R**, **SQL**, **Bash** (WSL)<br>
@@ -55,29 +55,29 @@ Here are a few projects I've worked on or am currently working on:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <!-- Python logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  /> <!-- NumPy logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  /> <!-- Pandas logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  /> <!-- R programming logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.simpleicons.org/tidyverse/white" height="40" /> <!-- R Tidyverse logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  /> <!-- sql-lite logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> <!-- Postgre SQL logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> <!-- JavaScript logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" width="50" alt="googlecloud logo"  /> <!-- GCP logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  /> <!-- AWS logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /> <!-- MS Azure logo -->
   <!--img width="12" />
   <!--img src="https://cdn.simpleicons.org/apachekafka/white" height="40" /> <!-- Apache Kafka logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.simpleicons.org/apachespark" height="40" /> <!-- Apache Spark logo>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apacheairflow" height="40" /> <!-- Apache Airflow logo -->
@@ -87,10 +87,10 @@ Here are a few projects I've worked on or am currently working on:
   <!--img  src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/dbrx-color.svg" height="40" /> <!-- Databricks logo -->
   <!--img width="12" />
   <img src="https://cdn.simpleicons.org/snowflake/00a1d9" height="40" /> <!-- Snowflake logo -->
-  <img width="12" />
+  <!--<img width="12" />
   <img src="https://cdn.simpleicons.org/alteryx" height="50" /> <!-- Alteryx logo -->
   
-</div>
+<!--</div>
 
 
 <!--div align="center">
