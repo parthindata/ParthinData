@@ -1,5 +1,5 @@
-<h3 align="left">Hello! I'm Parth<br>
-Passionate about Data Engineering, AI & Cloud Solutions</h3>
+<h4 align="left">Hello! <strong>I'm Parth</strong><br>
+Passionate about Data Engineering, AI & Cloud Solutions</h4>
 
 <p align="left">
 ▪️ <strong>Data Analyst trainee</strong> – SQL, Python (Pandas, NumPy), Power BI...<br>
