@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-▪️ Data Analyst trainee - SQL, Python (Pandas, NumPy), Power BI  
+▪️ **Data Analyst** trainee - SQL, Python (Pandas, NumPy), Power BI  
 ▪️ Student of **Data & Analytics**  
 ▪️ Enthusiastic about solving real-world problems with data-driven solutions
 
