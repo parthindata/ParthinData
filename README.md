@@ -1,31 +1,22 @@
-<h3 align="left" style="color:#2E86C1;">Hello! I'm Alex</h3>
-<h4 style="color:#117A65;">Passionate about Data Engineering, AI & Cloud Solutions</h4>
+<h3 align="left">Hello! I'm Parth<br>
+Passionate about Data Engineering, AI & Cloud Solutions</h3>
 
-<hr style="border:1px solid #71A5DE;">
+<hr>
 
-<p align="left" style="color:#555;">
-→ <strong>Data Analyst trainee</strong> – SQL, Python (Pandas, NumPy), Power BI...<br>
-→ <strong>Student</strong> of data & analytics.
+<p align="left">
+▪️ <strong>Data Analyst trainee</strong> – SQL, Python (Pandas, NumPy), Power BI...<br>
+▪️ <strong>Student</strong> of data & analytics.
 </p>
 
-<hr style="border:1px solid #71A5DE;">
+<hr>
 
-<p align="left" style="color:#555;">
+<p align="left">
 <strong>Currently:</strong><br>
-Working on data engineering and AI development projects.<br>
+Working on data engineering and AI development projects.
 Building expertise in cloud architecture and containerization.
 </p>
 
-<hr style="border:1px solid #71A5DE;">
-
-<p align="left" style="color:#333;">
-Let's connect! Here's my...<br>
-<a href="https://www.linkedin.com/in/alex/" style="background-color:#2E86C1; color:white; padding:8px 12px; text-decoration:none; border-radius:4px;">LinkedIn</a>
-</p>
-
-<hr style="border:1px solid #71A5DE;">
-
-###
+<hr>
 
 💻 Tech Stack:
 <div align="center">
@@ -80,11 +71,20 @@ Let's connect! Here's my...<br>
 
 ###
 
-<div align="center">
+<!--div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthindata&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="125" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=parthindata&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
 </div>
 
+-->
+<hr>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/parthindata/" target="_blank">🔗 LinkedIn</a><br>
+<a href="https://parthindata.github.io/" target="_blank">🔗 Website</a>
+</p>
+
+<hr>
 
 ###
 
